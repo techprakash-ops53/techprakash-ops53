@@ -1,7 +1,7 @@
 ReadMd(TechPrakash)
 <!-- Header Section -->
 <h1 align="center"><font face="Arial"> Hi 👋, I'm TechPrakash </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ /" target="_blank" rel="noreferrer">TechPrakash</a> is a passionate DevOps engineer as well as a full-stack app developer with around 4 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automation solutions. Proficient in leveraging DevOps tools and methodologies to optimise software development processes, enhance scalability, and improve system reliability. Seeking to leverage expertise in a challenging position to contribute technical expertise and innovation in a dynamic team environment.. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/tech-prakash/" target="_blank" rel="noreferrer">TechPrakash</a> is a passionate DevOps engineer as well as a full-stack app developer with around 4 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automation solutions. Proficient in leveraging DevOps tools and methodologies to optimise software development processes, enhance scalability, and improve system reliability. Seeking to leverage expertise in a challenging position to contribute technical expertise and innovation in a dynamic team environment.. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
