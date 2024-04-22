@@ -1,6 +1,6 @@
 ReadMd(TechPrakash)
 <!-- Header Section -->
-<h1 align="center"><font face="Arial"> Hi 👋, I'm TechPrakash </font></h1>
+<h1 align="center"><font face="Arial"> Hi 👋, I'm JPrakash </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/tech-prakash/" target="_blank" rel="noreferrer">JPrakash</a> is a passionate DevOps engineer with around 4 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automation solutions. Proficient in leveraging DevOps tools and methodologies to optimise software development processes, enhance scalability, and improve system reliability. Seeking to leverage expertise in a challenging position to contribute technical expertise and innovation in a dynamic team environment.. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
