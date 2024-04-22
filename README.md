@@ -10,8 +10,6 @@ ReadMd(JPrakash)
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-<p>- I work on Microservices, Container(docker), and Cloud Based Project.</p>
-
 
 #### Programming Language Stack
 
